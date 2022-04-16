@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-#F7DF1E
 <!--
 **jgy4419/jgy4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
