@@ -18,7 +18,7 @@
 
 <hr/>
 
-### email => jgy_98@naver.com
+### email -> jgy_98@naver.com
 <!-- 
 ### Sometimes...
 <p>
