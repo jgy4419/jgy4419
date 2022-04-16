@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![javascript](https://user-images.githubusercontent.com/76980526/163674113-1297151c-9c36-4856-a608-5c953db3aa53.svg)
