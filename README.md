@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Git-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
 
-### 🧑🏻‍💻 ConTect Me! 🧑🏻‍💻
+### 🧑🏻‍💻 Contact Me! 🧑🏻‍💻
 
 <hr/>
 
